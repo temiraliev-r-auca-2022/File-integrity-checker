@@ -1,0 +1,5 @@
+# Patterns match absolute paths. Use forward slashes in patterns.
+**/Temp/**
+**/AppData/Local/Temp/**
+**/*.log
+**/*.tmp

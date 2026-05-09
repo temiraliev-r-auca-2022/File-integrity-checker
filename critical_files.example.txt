@@ -1,0 +1,13 @@
+# One file or directory per line.
+# Lines starting with # are comments.
+# Relative paths are resolved relative to this file.
+# Copy this file to critical_files.txt before running.
+
+# Project files (safe for demo)
+fic.py
+README.md
+
+# Windows system examples (may require admin rights)
+C:\Windows\System32\drivers\etc\hosts
+C:\Windows\System32\notepad.exe
+C:\Windows\System32\kernel32.dll

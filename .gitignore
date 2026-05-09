@@ -1,0 +1,6 @@
+db/
+logs/
+reports/
+critical_files.txt
+exclude.txt
+ddemo.txt
